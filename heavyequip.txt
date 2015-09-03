@@ -1,0 +1,118 @@
+packer cutter standard heavy equipment dirt jockey rotor
+
+Track-type
+
+Agricultural tractors
+Air-track
+Bulldozer
+Snowcat
+Track skidder
+Track-type tractors (Bulldozer)
+Tractor
+Military engineering vehicles
+Grader
+
+Grader
+SkidSteer
+
+Skid steer loader
+Excavator
+
+Compact excavator
+Dragline excavator
+Dredging
+Excavator (wheel)
+Excavator (bagger, digger)
+Slurry wall excavator
+Front shovel
+Reclaimer
+Steam shovel
+Suction excavator
+Trencher (machine)
+Yarder
+Backhoe
+
+Backhoe loader, Backhoe
+Timber
+
+Feller buncher
+Harvester
+Skidder
+Track harvester
+Wheel forwarder
+Wheel skidder
+PipeLayer
+
+Pipelayer
+Scraper
+
+Fresno scraper
+Scraper
+Wheel tractor-scraper
+Mining
+
+Construction & mining tractor
+Construction & mining trucks
+Articulated
+
+Articulated hauler
+Articulated truck
+Water wagon
+Compactor
+
+Wheel dozers – soil compactors
+Soil stabilizer
+Loader
+
+Loader
+Skip loader (skippy)
+Wheel loader (front loader, integrated tool carrier)
+Track Loader
+
+Track loader
+Material Handler
+
+Aerial work platform / Lift table
+Boomtruck
+Cherry picker
+Crane
+Forklift
+Knuckleboom loader (trailer mount) & Knuckleboom loader (trailer mount)
+Reach stacker
+Telescopic handlers
+Paving
+
+Asphalt paver
+Asphalt plant
+Cold planer
+Concrete batch plant
+rig
+Paver
+Pneumatic tire compactor
+Roller (road roller or roller compactor)
+Slipform paver
+Vibratory compactor, Compactor
+Stomper:concrete drop hammer
+Underground
+
+Roadheader
+Tunnel boring machine
+Underground mining equipment
+Hydromatic Tool
+
+Ballast tamper
+Attachments
+Drilling machine
+Pile driver
+Rotary tiller (rototiller, rotovator)
+Venturi-mixer
+Highway
+
+Dump truck
+Highway 10 yard rear dump
+Highway bottom dump (stiff),  (belly train), triple
+Highway end dump and side dump
+Highway transfer, Transfer train
+Highway transit-mixer
+Lowboy (trailer)
+Street sweeper
